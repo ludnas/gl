@@ -8,26 +8,5 @@ Current state of memory and CPU
 
 # Arguments
 
-`-cpu` - CPU usage
-`-mem` - Memory usage
-
-### Linux
-
-*Ubuntu, Debian 8+ (deb package):*
-
-
-```sh
-$ git 
-$ cd 
-```
-## Features
-
-- [x] 1
-- [x] 2
-- [ ] 3
-
-## Usage
-
-<kbd>Command/ctrl + R</kbd> - Reload
-
-<kbd>command + q</kbd> - Quit App (while window is open).
+`cpu` - CPU usage
+`mem` - Memory usage
