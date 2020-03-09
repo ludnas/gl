@@ -10,3 +10,11 @@ Current state of memory and CPU
 
 `cpu` - CPU usage
 `mem` - Memory usage
+
+## Example
+`python metrics.py cpu`
+
+# Docker
+
+## Example
+   `docker run --rm metrics cpu`
